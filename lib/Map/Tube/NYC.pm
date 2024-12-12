@@ -29,33 +29,7 @@ with 'Map::Tube';
 =head1 DESCRIPTION
 
 It currently provides functionality to find the shortest  route between  the  two
-given  nodes. It covers the following subway lines just yet:
-
-=over 2
-
-=item * L<IND Sixth Avenue Line|Map::Tube::NYC::Line::INDSixthAvenue>
-
-=item * L<IND Eighth Avenue Line|Map::Tube::NYC::Line::INDEighthAvenue>
-
-=item * L<IND Crosstown Line|Map::Tube::NYC::Line::INDCrosstown>
-
-=item * L<IRT Flushing Line|Map::Tube::NYC::Line::IRTFlushing>
-
-=item * L<BMT Canarsie Line|Map::Tube::NYC::Line::BMTCanarsie>
-
-=item * L<BMT Nassau Street Line|Map::Tube::NYC::Line::BMTNassauStreet>
-
-=item * L<IRT Lexington Avenue Line|Map::Tube::NYC::Line::IRTLexingtonAvenue>
-
-=back
-
-=head1 TODO (Subway Lines)
-
-=over 2
-
-=item * BMT Broadway Line
-
-=item * IRT Broadway Line
+given  nodes.
 
 =back
 
