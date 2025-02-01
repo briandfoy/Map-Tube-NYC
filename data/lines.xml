@@ -230,7 +230,7 @@
     <station id="202"
              line="A-Rockaway-Park,S-Jamaica-Bay"
              name="Beach 105 St"
-             links=""
+             links="201,203"
              other_link="" />
     <station id="11"
              line="N,Q,R,W"
@@ -735,7 +735,7 @@
     <station id="201"
              line="A-Rockaway-Park,S-Jamaica-Bay"
              name="Beach 98 St"
-             links=""
+             links="200,202"
              other_link="" />
     <station id="381"
              line="4"
@@ -1855,7 +1855,7 @@
     <station id="199"
              line="A-Far-Rockaway,A-Rockaway-Park,S-Jamaica-Bay"
              name="Broad Channel"
-             links=""
+             links="200"
              other_link="" />
     <station id="177"
              line="C"
@@ -2010,7 +2010,7 @@
     <station id="203"
              line="A-Rockaway-Park,S-Jamaica-Bay"
              name="Rockaway Park-Beach 116 St"
-             links=""
+             links="202"
              other_link="" />
     <station id="523"
              line="SIR"
@@ -2450,7 +2450,7 @@
     <station id="200"
              line="A-Rockaway-Park,S-Jamaica-Bay"
              name="Beach 90 St"
-             links=""
+             links="199,201"
              other_link="" />
     <station id="69"
              line="D"
