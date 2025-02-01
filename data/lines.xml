@@ -155,7 +155,7 @@
     <station id="89"
              line="J"
              name="Cleveland St"
-             links=""
+             links="88,90"
              other_link="" />
     <station id="507"
              line="SIR"
@@ -420,7 +420,7 @@
     <station id="94"
              line="J"
              name="Halsey St"
-             links=""
+             links="93,95"
              other_link="" />
     <station id="284"
              line="G"
@@ -560,7 +560,7 @@
     <station id="85"
              line="J,Z"
              name="75 St-Elderts Ln"
-             links="83,87"
+             links="83,86,87"
              other_link="" />
     <station id="353"
              line="2,5-Diamond,5-Eastchester,5-Neried"
@@ -620,7 +620,7 @@
     <station id="90"
              line="J,Z"
              name="Van Siclen Av"
-             links="88,91"
+             links="88,89,91"
              other_link="" />
     <station id="134"
              line="L"
@@ -640,7 +640,7 @@
     <station id="243"
              line="F,G"
              name="Church Av"
-             links="242"
+             links=""
              other_link="" />
     <station id="428"
              line="2,5-Eastchester,5-Neried"
@@ -730,7 +730,7 @@
     <station id="86"
              line="J"
              name="Cypress Hills"
-             links=""
+             links="85,87"
              other_link="" />
     <station id="201"
              line="A-Rockaway-Park,S-Jamaica-Bay"
@@ -855,7 +855,7 @@
     <station id="93"
              line="J,Z"
              name="Chauncey St"
-             links="92,95"
+             links="92,94,95"
              other_link="" />
     <station id="466"
              line="7"
@@ -1405,7 +1405,7 @@
     <station id="87"
              line="J,Z"
              name="Crescent St"
-             links="85,88"
+             links="85,86,88"
              other_link="" />
     <station id="160"
              line="B,C"
@@ -1450,7 +1450,7 @@
     <station id="82"
              line="J,Z"
              name="104 St"
-             links="80,83"
+             links="80,81,83"
              other_link="" />
     <station id="377"
              line="6,6-Diamond"
@@ -1695,7 +1695,7 @@
     <station id="81"
              line="J"
              name="111 St"
-             links=""
+             links="80,81"
              other_link="" />
     <station id="167"
              line="B,D,F,M"
@@ -1820,7 +1820,7 @@
     <station id="96"
              line="J"
              name="Kosciuszko St"
-             links=""
+             links="95,97"
              other_link="" />
     <station id="327"
              line="1,2,3"
@@ -2000,7 +2000,7 @@
     <station id="88"
              line="J,Z"
              name="Norwood Av"
-             links="87,90"
+             links="87,89,90"
              other_link="" />
     <station id="508"
              line="SIR"
@@ -2185,7 +2185,7 @@
     <station id="83"
              line="J,Z"
              name="Woodhaven Blvd"
-             links="82,85"
+             links="82,84,85"
              other_link="" />
     <station id="214"
              line="B,D"
@@ -2365,7 +2365,7 @@
     <station id="80"
              line="J,Z"
              name="121 St"
-             links="279,82"
+             links="279,80,82"
              other_link="" />
     <station id="195"
              line="A-Ozone-Park"
@@ -2390,7 +2390,7 @@
     <station id="95"
              line="J,Z"
              name="Gates Av"
-             links="93,97"
+             links="93,96,97"
              other_link="" />
     <station id="283"
              line="G"
@@ -2485,7 +2485,7 @@
     <station id="91"
              line="J,Z"
              name="Alabama Av"
-             links=""
+             links="90,92"
              other_link="90,92" />
     <station id="112"
              line="M"
@@ -2530,7 +2530,7 @@
     <station id="84"
              line="J"
              name="85 St-Forest Pkwy"
-             links=""
+             links="83,85"
              other_link="" />
     <station id="309"
              line="1"
