@@ -150,7 +150,7 @@
     <station id="1"
              line="N,W"
              name="Astoria-Ditmars Blvd"
-             links=""
+             links="2"
              other_link="" />
     <station id="89"
              line="J"
@@ -195,7 +195,7 @@
     <station id="6"
              line="N,W"
              name="39 Av-Dutch Kills"
-             links=""
+             links="5,461"
              other_link="" />
     <station id="449"
              line="7"
@@ -235,7 +235,7 @@
     <station id="11"
              line="N,Q,R,W"
              name="Times Sq-42 St"
-             links=""
+             links="10,12"
              other_link="163,226,317,467,468" />
     <station id="385"
              line="4"
@@ -350,7 +350,7 @@
     <station id="15"
              line="4,5,6,L,N,Q,R,W"
              name="14 St-Union Sq"
-             links=""
+             links="14,16"
              other_link="" />
     <station id="184"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park,C"
@@ -405,7 +405,7 @@
     <station id="21"
              line="R,W"
              name="Cortlandt St"
-             links=""
+             links="20,22"
              other_link="171" />
     <station id="421"
              line="2,5-Neried"
@@ -650,7 +650,7 @@
     <station id="2"
              line="N,W"
              name="Astoria Blvd"
-             links=""
+             links="1,3"
              other_link="" />
     <station id="265"
              line="M,R"
@@ -695,7 +695,7 @@
     <station id="7"
              line="N,R,W"
              name="Lexington Av/59 St"
-             links=""
+             links="461,8"
              other_link="" />
     <station id="248"
              line="F"
@@ -835,7 +835,7 @@
     <station id="22"
              line="R,W"
              name="Rector St"
-             links=""
+             links="21,23"
              other_link="" />
     <station id="138"
              line="L"
@@ -910,7 +910,7 @@
     <station id="461"
              line="7"
              name="Queensboro Plaza"
-             links=""
+             links="5,7"
              other_link="" />
     <station id="519"
              line="SIR"
@@ -955,7 +955,7 @@
     <station id="10"
              line="N,R,W"
              name="49 St"
-             links=""
+             links="9,11"
              other_link="" />
     <station id="188"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park,C"
@@ -1080,7 +1080,7 @@
     <station id="14"
              line="R,W"
              name="23 St"
-             links=""
+             links="13,15"
              other_link="" />
     <station id="130"
              line="L"
@@ -1135,7 +1135,7 @@
     <station id="3"
              line="N,W"
              name="30 Av"
-             links=""
+             links="2,4"
              other_link="" />
     <station id="266"
              line="M,R"
@@ -1240,7 +1240,7 @@
     <station id="18"
              line="R,W"
              name="Canal St"
-             links=""
+             links="17,20"
              other_link="19,104,410" />
     <station id="444"
              line="5-Diamond,5-Eastchester"
@@ -1280,7 +1280,7 @@
     <station id="23"
              line="R,W"
              name="Whitehall St-South Ferry"
-             links=""
+             links="22"
              other_link="330" />
     <station id="45"
              line="Q"
@@ -1345,7 +1345,7 @@
     <station id="13"
              line="R,W"
              name="28 St"
-             links=""
+             links="12,14"
              other_link="" />
     <station id="445"
              line="5-Diamond,5-Eastchester"
@@ -1480,7 +1480,7 @@
     <station id="8"
              line="N,R,W"
              name="5 Av/59 St"
-             links=""
+             links="7,9"
              other_link="" />
     <station id="245"
              line="F"
@@ -1670,7 +1670,7 @@
     <station id="4"
              line="N,W"
              name="Broadway"
-             links=""
+             links="3,5"
              other_link="" />
     <station id="267"
              line="E,F,M,R"
@@ -1880,7 +1880,7 @@
     <station id="17"
              line="R,W"
              name="Prince St"
-             links=""
+             links="16,18"
              other_link="" />
     <station id="370"
              line="6"
@@ -1930,7 +1930,7 @@
     <station id="12"
              line="N,Q,R,W"
              name="34 St-Herald Sq"
-             links=""
+             links="11,13"
              other_link="" />
     <station id="73"
              line="N"
@@ -2115,7 +2115,7 @@
     <station id="9"
              line="N,Q,R,W"
              name="57 St-7 Av"
-             links=""
+             links="8,10"
              other_link="" />
     <station id="76"
              line="N"
@@ -2275,7 +2275,7 @@
     <station id="20"
              line="R,W"
              name="City Hall"
-             links=""
+             links="18,21"
              other_link="" />
     <station id="422"
              line="2,5-Neried"
@@ -2330,7 +2330,7 @@
     <station id="5"
              line="N,W"
              name="36 Av"
-             links=""
+             links="4,6"
              other_link="" />
     <station id="294"
              line="1"
@@ -2440,7 +2440,7 @@
     <station id="16"
              line="R,W"
              name="8 St-NYU"
-             links=""
+             links="15,17"
              other_link="" />
     <station id="164"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park,C,E"
