@@ -175,7 +175,7 @@
     <station id="116"
              line="L"
              name="6 Av"
-             links=""
+             links="115,117"
              other_link="" />
     <station id="217"
              line="B,D"
@@ -205,7 +205,7 @@
     <station id="121"
              line="L"
              name="Lorimer St"
-             links=""
+             links="120,122"
              other_link="285" />
     <station id="247"
              line="F"
@@ -370,7 +370,7 @@
     <station id="126"
              line="L"
              name="Jefferson St"
-             links=""
+             links="125,127"
              other_link="" />
     <station id="344"
              line="3"
@@ -550,7 +550,7 @@
     <station id="122"
              line="L"
              name="Graham Av"
-             links=""
+             links="121,123"
              other_link="" />
     <station id="348"
              line="3"
@@ -610,7 +610,7 @@
     <station id="133"
              line="L"
              name="Atlantic Av"
-             links=""
+             links="132,134"
              other_link="" />
     <station id="396"
              line="6,6-Diamond"
@@ -625,7 +625,7 @@
     <station id="134"
              line="L"
              name="Sutter Av"
-             links=""
+             links="133,135"
              other_link="" />
     <station id="411"
              line="4,5-Diamond,5-Eastchester,5-Neried,6,6-Diamond"
@@ -635,7 +635,7 @@
     <station id="117"
              line="L"
              name="14 St-Union Sq"
-             links=""
+             links="116,118"
              other_link="" />
     <station id="243"
              line="F,G"
@@ -715,7 +715,7 @@
     <station id="118"
              line="L"
              name="3 Av"
-             links=""
+             links="117,119"
              other_link="" />
     <station id="439"
              line="2,3"
@@ -840,7 +840,7 @@
     <station id="138"
              line="L"
              name="Canarsie-Rockaway Pkwy"
-             links=""
+             links="137"
              other_link="" />
     <station id="166"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park,C,E"
@@ -1020,7 +1020,7 @@
     <station id="125"
              line="L"
              name="Morgan Av"
-             links=""
+             links="124,126"
              other_link="" />
     <station id="225"
              line="B,D,F,M"
@@ -1085,7 +1085,7 @@
     <station id="130"
              line="L"
              name="Wilson Av"
-             links=""
+             links="129,131"
              other_link="" />
     <station id="42"
              line="B,Q,S-Franklin-Extension"
@@ -1110,7 +1110,7 @@
     <station id="129"
              line="L"
              name="Halsey St"
-             links=""
+             links="128,130"
              other_link="" />
     <station id="343"
              line="3"
@@ -1305,7 +1305,7 @@
     <station id="119"
              line="L"
              name="1 Av"
-             links=""
+             links="118,120"
              other_link="" />
     <station id="281"
              line="G"
@@ -1620,7 +1620,7 @@
     <station id="131"
              line="L"
              name="Bushwick Av-Aberdeen St"
-             links=""
+             links="130,132"
              other_link="" />
     <station id="399"
              line="6,6-Diamond"
@@ -1655,7 +1655,7 @@
     <station id="136"
              line="L"
              name="New Lots Av"
-             links=""
+             links="135,137"
              other_link="" />
     <station id="299"
              line="1"
@@ -1760,7 +1760,7 @@
     <station id="124"
              line="L"
              name="Montrose Av"
-             links=""
+             links="123,125"
              other_link="" />
     <station id="355"
              line="2,5-Diamond,5-Eastchester,5-Neried"
@@ -1895,7 +1895,7 @@
     <station id="128"
              line="L"
              name="Myrtle-Wyckoff Avs"
-             links=""
+             links="127,129"
              other_link="112" />
     <station id="338"
              line="2,3,4,5-Diamond,5-Eastchester,5-Neried"
@@ -2085,7 +2085,7 @@
     <station id="115"
              line="L"
              name="8 Av"
-             links=""
+             links="116"
              other_link="" />
     <station id="401"
              line="6,6-Diamond"
@@ -2130,7 +2130,7 @@
     <station id="120"
              line="L"
              name="Bedford Av"
-             links=""
+             links="119,121"
              other_link="" />
     <station id="59"
              line="D"
@@ -2340,12 +2340,12 @@
     <station id="127"
              line="L"
              name="DeKalb Av"
-             links=""
+             links="126,128"
              other_link="" />
     <station id="137"
              line="L"
              name="East 105 St"
-             links=""
+             links="136,138"
              other_link="" />
     <station id="341"
              line="2,3"
@@ -2430,7 +2430,7 @@
     <station id="132"
              line="L"
              name="Broadway Junction"
-             links=""
+             links="131,133"
              other_link="92,184" />
     <station id="48"
              line="Q"
@@ -2515,7 +2515,7 @@
     <station id="123"
              line="L"
              name="Grand St"
-             links=""
+             links="122,124"
              other_link="" />
     <station id="468"
              line="S"
