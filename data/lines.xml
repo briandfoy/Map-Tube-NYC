@@ -125,12 +125,12 @@
     <station id="347"
              line="3"
              name="Saratoga Av"
-             links=""
+             links="346,348"
              other_link="" />
     <station id="333"
              line="2,3"
              name="Wall St"
-             links=""
+             links="332,334"
              other_link="" />
     <station id="249"
              line="F"
@@ -165,7 +165,7 @@
     <station id="352"
              line="3"
              name="New Lots Av"
-             links=""
+             links="351"
              other_link="" />
     <station id="170"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park,C"
@@ -220,7 +220,7 @@
     <station id="440"
              line="2,3"
              name="116 St"
-             links=""
+             links="439,441"
              other_link="" />
     <station id="269"
              line="M,R"
@@ -265,7 +265,7 @@
     <station id="340"
              line="2,3"
              name="Grand Army Plaza"
-             links=""
+             links="339,341"
              other_link="" />
     <station id="154"
              line="B,C"
@@ -320,7 +320,7 @@
     <station id="436"
              line="3"
              name="Harlem-148 St"
-             links=""
+             links="437"
              other_link="" />
     <station id="38"
              line="R"
@@ -375,7 +375,7 @@
     <station id="344"
              line="3"
              name="Kingston Av"
-             links=""
+             links="343,345"
              other_link="" />
     <station id="357"
              line="2,5-Diamond,5-Eastchester,5-Neried"
@@ -555,7 +555,7 @@
     <station id="348"
              line="3"
              name="Rockaway Av"
-             links=""
+             links="347,349"
              other_link="" />
     <station id="85"
              line="J,Z"
@@ -720,7 +720,7 @@
     <station id="439"
              line="2,3"
              name="125 St"
-             links=""
+             links="438,440"
              other_link="" />
     <station id="270"
              line="M,R"
@@ -760,7 +760,7 @@
     <station id="334"
              line="2,3"
              name="Clark St"
-             links=""
+             links="333,335"
              other_link="" />
     <station id="302"
              line="1"
@@ -775,7 +775,7 @@
     <station id="349"
              line="3"
              name="Junius St"
-             links=""
+             links="348,350"
              other_link="" />
     <station id="29"
              line="R"
@@ -941,7 +941,7 @@
              line="1,2,3"
              name="Times Sq-42 St"
              links="316,318"
-             other_link="11,163,226,467,468" />
+             other_link="11,163,226,313,318,467,468" />
     <station id="157"
              line="B,C"
              name="96 St"
@@ -1030,7 +1030,7 @@
     <station id="339"
              line="2,3"
              name="Bergen St"
-             links=""
+             links="338,340"
              other_link="" />
     <station id="78"
              line="N"
@@ -1115,7 +1115,7 @@
     <station id="343"
              line="3"
              name="Nostrand Av"
-             links=""
+             links="342,344"
              other_link="" />
     <station id="237"
              line="F,G"
@@ -1365,7 +1365,7 @@
     <station id="313"
              line="1,2,3"
              name="72 St"
-             links="312,314"
+             links="310,312,314,317"
              other_link="" />
     <station id="146"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park"
@@ -1385,7 +1385,7 @@
     <station id="335"
              line="2,3"
              name="Borough Hall"
-             links=""
+             links="334,336"
              other_link="24,415" />
     <station id="236"
              line="F,G"
@@ -1400,7 +1400,7 @@
     <station id="350"
              line="3"
              name="Pennsylvania Av"
-             links=""
+             links="349,351"
              other_link="" />
     <station id="87"
              line="J,Z"
@@ -1490,7 +1490,7 @@
     <station id="318"
              line="1,2,3"
              name="34 St-Penn Station"
-             links="317,319"
+             links="317,319,322"
              other_link="" />
     <station id="40"
              line="B,Q"
@@ -1540,7 +1540,7 @@
     <station id="345"
              line="3,4"
              name="Crown Hts-Utica Av"
-             links=""
+             links="344,346"
              other_link="" />
     <station id="367"
              line="6"
@@ -1680,7 +1680,7 @@
     <station id="438"
              line="2,3"
              name="135 St"
-             links=""
+             links="437,439"
              other_link="" />
     <station id="431"
              line="2,5-Eastchester,5-Neried"
@@ -1755,7 +1755,7 @@
     <station id="342"
              line="2,3,4,5-Diamond,5-Eastchester,5-Neried"
              name="Franklin Av-Medgar Evers College"
-             links=""
+             links="341,343"
              other_link="142" />
     <station id="124"
              line="L"
@@ -1825,7 +1825,7 @@
     <station id="327"
              line="1,2,3"
              name="Chambers St"
-             links="326,328"
+             links="322,326,328,331"
              other_link="" />
     <station id="409"
              line="6,6-Diamond"
@@ -1840,7 +1840,7 @@
     <station id="310"
              line="1,2,3"
              name="96 St"
-             links="309,311"
+             links="309,311,313,441"
              other_link="" />
     <station id="51"
              line="B,Q"
@@ -1870,12 +1870,12 @@
     <station id="331"
              line="2,3"
              name="Park Place"
-             links=""
+             links="327,332"
              other_link="170,171" />
     <station id="441"
              line="2,3"
              name="Central Park North (110 St)"
-             links=""
+             links="440,310"
              other_link="" />
     <station id="17"
              line="R,W"
@@ -1900,7 +1900,7 @@
     <station id="338"
              line="2,3,4,5-Diamond,5-Eastchester,5-Neried"
              name="Atlantic Av-Barclays Ctr"
-             links=""
+             links="337,339"
              other_link="27,40" />
     <station id="469"
              line="S"
@@ -1920,7 +1920,7 @@
     <station id="336"
              line="2,3"
              name="Hoyt St"
-             links=""
+             links="335,337"
              other_link="" />
     <station id="155"
              line="B,C"
@@ -2065,7 +2065,7 @@
     <station id="351"
              line="3"
              name="Van Siclen Av"
-             links=""
+             links="350,352"
              other_link="" />
     <station id="390"
              line="4"
@@ -2180,7 +2180,7 @@
     <station id="346"
              line="3"
              name="Sutter Av-Rutland Rd"
-             links=""
+             links="345,347"
              other_link="" />
     <station id="83"
              line="J,Z"
@@ -2350,7 +2350,7 @@
     <station id="341"
              line="2,3"
              name="Eastern Pkwy-Brooklyn Museum"
-             links=""
+             links="340,342"
              other_link="" />
     <station id="268"
              line="M,R"
@@ -2375,7 +2375,7 @@
     <station id="437"
              line="3"
              name="145 St"
-             links=""
+             links="436,438"
              other_link="" />
     <station id="477"
              line="Q"
@@ -2415,7 +2415,7 @@
     <station id="332"
              line="2,3"
              name="Fulton St"
-             links=""
+             links="331,333"
              other_link="106,172,412" />
     <station id="427"
              line="2,5-Eastchester,5-Neried"
@@ -2505,12 +2505,12 @@
     <station id="322"
              line="1,2,3"
              name="14 St"
-             links="321,323"
+             links="318,321,323,327"
              other_link="229" />
     <station id="337"
              line="2,3,4,5-Diamond,5-Eastchester,5-Neried"
              name="Nevins St"
-             links=""
+             links="336,338"
              other_link="" />
     <station id="123"
              line="L"
