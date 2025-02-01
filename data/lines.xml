@@ -1905,8 +1905,8 @@
     <station id="469"
              line="S"
              name="Grand Central-42 St"
-             links=""
-             other_link="" />
+             links="468"
+             other_link="402,465" />
     <station id="359"
              line="2,5-Diamond,5-Eastchester,5-Neried"
              name="Flatbush Av-Brooklyn College"
@@ -2520,7 +2520,7 @@
     <station id="468"
              line="S"
              name="Times Sq-42 St"
-             links=""
+             links="469"
              other_link="11,163,226,317,467" />
     <station id="354"
              line="2,5-Diamond,5-Eastchester,5-Neried"
