@@ -305,7 +305,7 @@
     <station id="288"
              line="G"
              name="Myrtle-Willoughby Avs"
-             links=""
+             links="287,289"
              other_link="" />
     <station id="301"
              line="1"
@@ -425,7 +425,7 @@
     <station id="284"
              line="G"
              name="Nassau Av"
-             links=""
+             links="283,285"
              other_link="" />
     <station id="416"
              line="2"
@@ -450,7 +450,7 @@
     <station id="289"
              line="G"
              name="Bedford-Nostrand Avs"
-             links=""
+             links="288,290"
              other_link="" />
     <station id="448"
              line="7"
@@ -545,7 +545,7 @@
     <station id="238"
              line="F,G"
              name="Smith-9 Sts"
-             links=""
+             links="237,239"
              other_link="" />
     <station id="122"
              line="L"
@@ -640,7 +640,7 @@
     <station id="243"
              line="F,G"
              name="Church Av"
-             links=""
+             links="242"
              other_link="" />
     <station id="428"
              line="2,5-Eastchester,5-Neried"
@@ -680,7 +680,7 @@
     <station id="292"
              line="G"
              name="Fulton St"
-             links=""
+             links="291,175"
              other_link="" />
     <station id="233"
              line="F"
@@ -930,7 +930,7 @@
     <station id="285"
              line="G"
              name="Metropolitan Av"
-             links=""
+             links="284,286"
              other_link="121" />
     <station id="224"
              line="F"
@@ -1120,7 +1120,7 @@
     <station id="237"
              line="F,G"
              name="Carroll St"
-             links=""
+             links="236,238"
              other_link="" />
     <station id="106"
              line="J,Z"
@@ -1290,12 +1290,12 @@
     <station id="286"
              line="G"
              name="Broadway"
-             links=""
+             links="285,287"
              other_link="" />
     <station id="291"
              line="G"
              name="Clinton-Washington Avs"
-             links=""
+             links="290,292"
              other_link="" />
     <station id="60"
              line="D"
@@ -1310,7 +1310,7 @@
     <station id="281"
              line="G"
              name="Court Sq"
-             links=""
+             links="282"
              other_link="274" />
     <station id="204"
              line="A-Far-Rockaway"
@@ -1390,7 +1390,7 @@
     <station id="236"
              line="F,G"
              name="Bergen St"
-             links=""
+             links="175,237"
              other_link="" />
     <station id="181"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park,C"
@@ -1585,7 +1585,7 @@
     <station id="240"
              line="F,G"
              name="7 Av"
-             links=""
+             links="239,241"
              other_link="" />
     <station id="251"
              line="F"
@@ -1690,7 +1690,7 @@
     <station id="241"
              line="F,G"
              name="15 St-Prospect Park"
-             links=""
+             links="240,242"
              other_link="" />
     <station id="81"
              line="J"
@@ -1805,7 +1805,7 @@
     <station id="282"
              line="G"
              name="21 St"
-             links=""
+             links="281,283"
              other_link="" />
     <station id="151"
              line="B,D"
@@ -1940,7 +1940,7 @@
     <station id="175"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park,C,G"
              name="Hoyt-Schermerhorn Sts"
-             links=""
+             links="292,236"
              other_link="" />
     <station id="386"
              line="4"
@@ -2125,7 +2125,7 @@
     <station id="290"
              line="G"
              name="Classon Av"
-             links=""
+             links="289,291"
              other_link="" />
     <station id="120"
              line="L"
@@ -2195,7 +2195,7 @@
     <station id="287"
              line="G"
              name="Flushing Av"
-             links=""
+             links="286,288"
              other_link="" />
     <station id="152"
              line="B,C"
@@ -2315,7 +2315,7 @@
     <station id="239"
              line="F,G"
              name="4 Av-9 St"
-             links=""
+             links="238,240"
              other_link="29" />
     <station id="512"
              line="SIR"
@@ -2325,7 +2325,7 @@
     <station id="242"
              line="F,G"
              name="Fort Hamilton Pkwy"
-             links=""
+             links="241,243"
              other_link="" />
     <station id="5"
              line="N,W"
@@ -2395,7 +2395,7 @@
     <station id="283"
              line="G"
              name="Greenpoint Av"
-             links=""
+             links="282,284"
              other_link="" />
     <station id="415"
              line="4,5-Diamond,5-Eastchester,5-Neried"
