@@ -110,7 +110,7 @@
     <station id="139"
              line="S-Franklin-Extension"
              name="Franklin Av"
-             links=""
+             links="42,141"
              other_link="" />
     <station id="102"
              line="J,M,Z"
@@ -1090,7 +1090,7 @@
     <station id="42"
              line="B,Q,S-Franklin-Extension"
              name="Prospect Park"
-             links=""
+             links="139"
              other_link="" />
     <station id="371"
              line="6,6-Diamond"
@@ -1560,7 +1560,7 @@
     <station id="142"
              line="S-Franklin-Extension"
              name="Botanic Garden"
-             links=""
+             links="141,42"
              other_link="342" />
     <station id="213"
              line="B,D"
@@ -2100,7 +2100,7 @@
     <station id="141"
              line="S-Franklin-Extension"
              name="Park Pl"
-             links=""
+             links="139,142"
              other_link="" />
     <station id="418"
              line="2,5-Neried"
