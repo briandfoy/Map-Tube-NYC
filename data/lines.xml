@@ -185,7 +185,7 @@
     <station id="276"
              line="E,M"
              name="5 Av/53 St"
-             links=""
+             links="275,277"
              other_link="" />
     <station id="308"
              line="1"
@@ -475,7 +475,7 @@
     <station id="261"
              line="E,F,M,R"
              name="Forest Hills-71 Av"
-             links="262"
+             links="262,260,267"
              other_link="" />
     <station id="30"
              line="R"
@@ -500,7 +500,7 @@
     <station id="165"
              line="C,E"
              name="23 St"
-             links=""
+             links="164,166"
              other_link="" />
     <station id="179"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park,C"
@@ -585,7 +585,7 @@
     <station id="280"
              line="E"
              name="Jamaica-Van Wyck"
-             links=""
+             links="279,258"
              other_link="" />
     <station id="62"
              line="D"
@@ -770,7 +770,7 @@
     <station id="260"
              line="E,F"
              name="75 Av"
-             links=""
+             links="259,261"
              other_link="" />
     <station id="349"
              line="3"
@@ -830,7 +830,7 @@
     <station id="275"
              line="E,M"
              name="Lexington Av/53 St"
-             links=""
+             links="274,276"
              other_link="401" />
     <station id="22"
              line="R,W"
@@ -845,7 +845,7 @@
     <station id="166"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park,C,E"
              name="14 St"
-             links=""
+             links="165,167"
              other_link="" />
     <station id="34"
              line="R"
@@ -980,7 +980,7 @@
     <station id="169"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park,C,E"
              name="Canal St"
-             links=""
+             links="168,171"
              other_link="" />
     <station id="143"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park"
@@ -1215,7 +1215,7 @@
     <station id="162"
              line="C,E"
              name="50 St"
-             links=""
+             links="277,163"
              other_link="" />
     <station id="279"
              line="E,J,Z"
@@ -1320,7 +1320,7 @@
     <station id="259"
              line="E,F"
              name="Kew Gardens-Union Tpke"
-             links=""
+             links="258,269"
              other_link="" />
     <station id="28"
              line="R"
@@ -1440,7 +1440,7 @@
     <station id="274"
              line="E,M"
              name="Court Sq-23 St"
-             links=""
+             links="273,275"
              other_link="281" />
     <station id="419"
              line="2,5-Neried"
@@ -1630,8 +1630,8 @@
     <station id="278"
              line="E,J,Z"
              name="Jamaica Center-Parsons/Archer"
-             links=""
-             other_link="279" />
+             links="279"
+             other_link="" />
     <station id="455"
              line="7"
              name="69 St"
@@ -1675,7 +1675,7 @@
     <station id="267"
              line="E,F,M,R"
              name="Jackson Hts-Roosevelt Av"
-             links="266,268"
+             links="266,261,273"
              other_link="454" />
     <station id="438"
              line="2,3"
@@ -1725,7 +1725,7 @@
     <station id="163"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park,C,E"
              name="42 St-Port Authority Bus Terminal"
-             links=""
+             links="162,164"
              other_link="11,226,317,467,468" />
     <station id="374"
              line="6"
@@ -2055,7 +2055,7 @@
     <station id="258"
              line="E,F"
              name="Briarwood"
-             links=""
+             links="280,259"
              other_link="" />
     <station id="159"
              line="B,C"
@@ -2095,7 +2095,7 @@
     <station id="171"
              line="E"
              name="World Trade Center"
-             links=""
+             links="169"
              other_link="21,331" />
     <station id="141"
              line="S-Franklin-Extension"
@@ -2235,7 +2235,7 @@
     <station id="168"
              line="C,E"
              name="Spring St"
-             links=""
+             links="167,169"
              other_link="" />
     <station id="262"
              line="M,R"
@@ -2285,7 +2285,7 @@
     <station id="273"
              line="E,M,R"
              name="Queens Plaza"
-             links="272,7"
+             links="272,7,274"
              other_link="" />
     <station id="373"
              line="6"
@@ -2445,7 +2445,7 @@
     <station id="164"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park,C,E"
              name="34 St-Penn Station"
-             links=""
+             links="163,165"
              other_link="" />
     <station id="200"
              line="A-Rockaway-Park,S-Jamaica-Bay"
@@ -2470,7 +2470,7 @@
     <station id="277"
              line="B,D,E"
              name="7 Av"
-             links=""
+             links="276,162"
              other_link="" />
     <station id="442"
              line="5-Diamond,5-Eastchester"
