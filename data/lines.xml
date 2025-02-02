@@ -115,7 +115,7 @@
     <station id="102"
              line="J,M,Z"
              name="Delancey St-Essex St"
-             links="101,103"
+             links="101,103,230"
              other_link="" />
     <station id="505"
              line="SIR"
@@ -185,7 +185,7 @@
     <station id="276"
              line="E,M"
              name="5 Av/53 St"
-             links="275,277"
+             links="225,275,277"
              other_link="" />
     <station id="308"
              line="1"
@@ -365,7 +365,7 @@
     <station id="111"
              line="M"
              name="Seneca Av"
-             links=""
+             links="112,110"
              other_link="" />
     <station id="126"
              line="L"
@@ -445,7 +445,7 @@
     <station id="228"
              line="F,M"
              name="23 St"
-             links=""
+             links="227,229"
              other_link="" />
     <station id="289"
              line="G"
@@ -865,7 +865,7 @@
     <station id="229"
              line="F,M"
              name="14 St"
-             links=""
+             links="228,167"
              other_link="322" />
     <station id="510"
              line="SIR"
@@ -995,7 +995,7 @@
     <station id="110"
              line="M"
              name="Forest Av"
-             links=""
+             links="111,109"
              other_link="" />
     <station id="328"
              line="1"
@@ -1025,7 +1025,7 @@
     <station id="225"
              line="B,D,F,M"
              name="47-50 Sts-Rockefeller Ctr"
-             links=""
+             links="276,226"
              other_link="" />
     <station id="339"
              line="2,3"
@@ -1060,7 +1060,7 @@
     <station id="97"
              line="J,M,Z"
              name="Myrtle Av"
-             links="96,98"
+             links="96,98,114"
              other_link="" />
     <station id="393"
              line="6,6-Diamond"
@@ -1185,7 +1185,7 @@
     <station id="167"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park,C,E"
              name="W 4 St-Wash Sq"
-             links=""
+             links="229,230"
              other_link="" />
     <station id="33"
              line="R"
@@ -1430,7 +1430,7 @@
     <station id="114"
              line="M"
              name="Central Av"
-             links=""
+             links="97,113"
              other_link="" />
     <station id="219"
              line="B,D"
@@ -1460,7 +1460,7 @@
     <station id="230"
              line="B,D,F,M"
              name="Broadway-Lafayette St"
-             links=""
+             links="167,102"
              other_link="" />
     <station id="362"
              line="6,6-Diamond"
@@ -1605,7 +1605,7 @@
     <station id="109"
              line="M"
              name="Fresh Pond Rd"
-             links=""
+             links="110,108"
              other_link="" />
     <station id="330"
              line="1"
@@ -1665,7 +1665,7 @@
     <station id="226"
              line="B,D,F,M"
              name="42 St-Bryant Pk"
-             links=""
+             links="225,227"
              other_link="466,467" />
     <station id="4"
              line="N,W"
@@ -1675,7 +1675,7 @@
     <station id="267"
              line="E,F,M,R"
              name="Jackson Hts-Roosevelt Av"
-             links="266,261,273"
+             links="261,266,268,273"
              other_link="454" />
     <station id="438"
              line="2,3"
@@ -1750,7 +1750,7 @@
     <station id="113"
              line="M"
              name="Knickerbocker Av"
-             links=""
+             links="114,112"
              other_link="" />
     <station id="342"
              line="2,3,4,5-Diamond,5-Eastchester,5-Neried"
@@ -2285,7 +2285,7 @@
     <station id="273"
              line="E,M,R"
              name="Queens Plaza"
-             links="272,7,274"
+             links="7,272,274"
              other_link="" />
     <station id="373"
              line="6"
@@ -2310,7 +2310,7 @@
     <station id="108"
              line="M"
              name="Middle Village-Metropolitan Av"
-             links=""
+             links="109"
              other_link="" />
     <station id="239"
              line="F,G"
@@ -2490,7 +2490,7 @@
     <station id="112"
              line="M"
              name="Myrtle-Wyckoff Avs"
-             links=""
+             links="113,111"
              other_link="128" />
     <station id="254"
              line="F"
@@ -2500,7 +2500,7 @@
     <station id="227"
              line="B,D,F,M"
              name="34 St-Herald Sq"
-             links=""
+             links="226,228"
              other_link="" />
     <station id="322"
              line="1,2,3"
