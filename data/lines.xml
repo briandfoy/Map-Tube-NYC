@@ -100,7 +100,7 @@
     <station id="70"
              line="D"
              name="Bay 50 St"
-             links=""
+             links="69,58"
              other_link="" />
     <station id="365"
              line="6,6-Diamond"
@@ -170,7 +170,7 @@
     <station id="170"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park,C"
              name="Chambers St"
-             links=""
+             links="169,172"
              other_link="171" />
     <station id="116"
              line="L"
@@ -180,7 +180,7 @@
     <station id="217"
              line="B,D"
              name="170 St"
-             links=""
+             links="216,218"
              other_link="" />
     <station id="276"
              line="E,M"
@@ -270,12 +270,12 @@
     <station id="154"
              line="B,C"
              name="116 St"
-             links=""
+             links="153,155"
              other_link="" />
     <station id="174"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park,C,F"
              name="Jay St-MetroTech"
-             links=""
+             links="173,175"
              other_link="25" />
     <station id="404"
              line="6,6-Diamond"
@@ -285,7 +285,7 @@
     <station id="185"
              line="C"
              name="Liberty Av"
-             links=""
+             links="184,186"
              other_link="" />
     <station id="43"
              line="Q"
@@ -355,7 +355,7 @@
     <station id="184"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park,C"
              name="Broadway Junction"
-             links=""
+             links="183,185"
              other_link="92,132" />
     <station id="372"
              line="6"
@@ -395,7 +395,7 @@
     <station id="158"
              line="B,C"
              name="86 St"
-             links=""
+             links="157,159"
              other_link="" />
     <station id="189"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park"
@@ -440,7 +440,7 @@
     <station id="153"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park,B,C,D"
              name="125 St"
-             links=""
+             links="151,152,154,161"
              other_link="" />
     <station id="228"
              line="F,M"
@@ -460,7 +460,7 @@
     <station id="58"
              line="D,F,N,Q"
              name="Coney Island-Stillwell Av"
-             links="58,79"
+             links="70,79"
              other_link="" />
     <station id="316"
              line="1"
@@ -485,7 +485,7 @@
     <station id="216"
              line="B,D"
              name="174-175 Sts"
-             links=""
+             links="215,217"
              other_link="" />
     <station id="501"
              line="SIR"
@@ -505,7 +505,7 @@
     <station id="179"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park,C"
              name="Nostrand Av"
-             links=""
+             links="178,180"
              other_link="" />
     <station id="443"
              line="5-Diamond,5-Eastchester"
@@ -525,7 +525,7 @@
     <station id="211"
              line="B,D"
              name="Bedford Park Blvd"
-             links=""
+             links="210,212"
              other_link="" />
     <station id="253"
              line="F"
@@ -575,7 +575,7 @@
     <station id="149"
              line="C"
              name="163 St-Amsterdam Av"
-             links=""
+             links="148,150"
              other_link="" />
     <station id="397"
              line="4,5-Diamond,5-Eastchester,5-Neried,6,6-Diamond"
@@ -590,7 +590,7 @@
     <station id="62"
              line="D"
              name="55 St"
-             links=""
+             links="61,63"
              other_link="" />
     <station id="221"
              line="F"
@@ -705,7 +705,7 @@
     <station id="61"
              line="D"
              name="50 St"
-             links=""
+             links="60,62"
              other_link="" />
     <station id="380"
              line="4"
@@ -745,7 +745,7 @@
     <station id="220"
              line="B,D"
              name="155 St"
-             links=""
+             links="219,151"
              other_link="" />
     <station id="366"
              line="6,6-Diamond"
@@ -790,7 +790,7 @@
     <station id="161"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park,B,C,D"
              name="59 St-Columbus Circle"
-             links=""
+             links="153,160,162,277"
              other_link="" />
     <station id="392"
              line="4,5-Diamond,5-Eastchester,5-Neried,6,6-Diamond"
@@ -890,7 +890,7 @@
     <station id="66"
              line="D"
              name="18 Av"
-             links=""
+             links="65,67"
              other_link="" />
     <station id="435"
              line="2,5-Diamond,5-Eastchester,5-Neried"
@@ -945,7 +945,7 @@
     <station id="157"
              line="B,C"
              name="96 St"
-             links=""
+             links="157,158"
              other_link="" />
     <station id="403"
              line="6,6-Diamond"
@@ -960,7 +960,7 @@
     <station id="188"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park,C"
              name="Euclid Av"
-             links=""
+             links="187"
              other_link="" />
     <station id="388"
              line="4"
@@ -980,7 +980,7 @@
     <station id="169"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park,C,E"
              name="Canal St"
-             links="168,171"
+             links="168,170,171"
              other_link="" />
     <station id="143"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park"
@@ -1055,7 +1055,7 @@
     <station id="212"
              line="B,D"
              name="Kingsbridge Rd"
-             links=""
+             links="211,213"
              other_link="" />
     <station id="97"
              line="J,M,Z"
@@ -1075,7 +1075,7 @@
     <station id="173"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park,C"
              name="High St"
-             links=""
+             links="172,174"
              other_link="" />
     <station id="14"
              line="R,W"
@@ -1185,7 +1185,7 @@
     <station id="167"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park,C,E"
              name="W 4 St-Wash Sq"
-             links="229,230"
+             links="166,168,227,229,230"
              other_link="" />
     <station id="33"
              line="R"
@@ -1200,7 +1200,7 @@
     <station id="150"
              line="C"
              name="155 St"
-             links=""
+             links="149,151"
              other_link="" />
     <station id="264"
              line="M,R"
@@ -1215,7 +1215,7 @@
     <station id="162"
              line="C,E"
              name="50 St"
-             links="277,163"
+             links="161,163,277"
              other_link="" />
     <station id="279"
              line="E,J,Z"
@@ -1225,12 +1225,12 @@
     <station id="65"
              line="D"
              name="79 St"
-             links=""
+             links="64,66"
              other_link="" />
     <station id="180"
              line="C"
              name="Kingston-Throop Avs"
-             links=""
+             links="179,181"
              other_link="" />
     <station id="296"
              line="1"
@@ -1250,7 +1250,7 @@
     <station id="151"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park,C"
              name="145 St"
-             links=""
+             links="220,150,152,153"
              other_link="" />
     <station id="375"
              line="6"
@@ -1260,7 +1260,7 @@
     <station id="176"
              line="C"
              name="Lafayette Av"
-             links=""
+             links="175,177"
              other_link="" />
     <station id="423"
              line="2,5-Neried"
@@ -1300,7 +1300,7 @@
     <station id="60"
              line="D"
              name="Fort Hamilton Pkwy"
-             links=""
+             links="59,61"
              other_link="" />
     <station id="119"
              line="L"
@@ -1395,7 +1395,7 @@
     <station id="181"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park,C"
              name="Utica Av"
-             links=""
+             links="180,182"
              other_link="" />
     <station id="350"
              line="3"
@@ -1410,12 +1410,12 @@
     <station id="160"
              line="B,C"
              name="72 St"
-             links=""
+             links="159,161"
              other_link="" />
     <station id="187"
              line="C"
              name="Shepherd Av"
-             links=""
+             links="186,188"
              other_link="" />
     <station id="406"
              line="4,5-Diamond,5-Eastchester,5-Neried,6,6-Diamond"
@@ -1425,7 +1425,7 @@
     <station id="172"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park,C"
              name="Fulton St"
-             links=""
+             links="170,173"
              other_link="106,332,412" />
     <station id="114"
              line="M"
@@ -1435,7 +1435,7 @@
     <station id="219"
              line="B,D"
              name="161 St-Yankee Stadium"
-             links=""
+             links="218,220"
              other_link="" />
     <station id="274"
              line="E,M"
@@ -1460,7 +1460,7 @@
     <station id="230"
              line="B,D,F,M"
              name="Broadway-Lafayette St"
-             links="167,102"
+             links="167,102,231"
              other_link="" />
     <station id="362"
              line="6,6-Diamond"
@@ -1565,7 +1565,7 @@
     <station id="213"
              line="B,D"
              name="Fordham Rd"
-             links=""
+             links="212,214"
              other_link="" />
     <station id="92"
              line="J,Z"
@@ -1580,7 +1580,7 @@
     <station id="67"
              line="D"
              name="20 Av"
-             links=""
+             links="66,68"
              other_link="" />
     <station id="240"
              line="F,G"
@@ -1595,7 +1595,7 @@
     <station id="156"
              line="B,C"
              name="103 St"
-             links=""
+             links="155,157"
              other_link="" />
     <station id="198"
              line="A-Far-Rockaway,A-Rockaway-Park"
@@ -1790,7 +1790,7 @@
     <station id="64"
              line="D"
              name="71 St"
-             links=""
+             links="63,65"
              other_link="" />
     <station id="295"
              line="1"
@@ -1850,7 +1850,7 @@
     <station id="68"
              line="D"
              name="Bay Pkwy"
-             links=""
+             links="67,69"
              other_link="" />
     <station id="199"
              line="A-Far-Rockaway,A-Rockaway-Park,S-Jamaica-Bay"
@@ -1860,12 +1860,12 @@
     <station id="177"
              line="C"
              name="Clinton-Washington Avs"
-             links=""
+             links="176,178"
              other_link="" />
     <station id="182"
              line="C"
              name="Ralph Av"
-             links=""
+             links="181,183"
              other_link="" />
     <station id="331"
              line="2,3"
@@ -1915,7 +1915,7 @@
     <station id="32"
              line="D,N,R"
              name="36 St"
-             links="27,31,33,35"
+             links="27,31,33,35,59"
              other_link="" />
     <station id="336"
              line="2,3"
@@ -1925,7 +1925,7 @@
     <station id="155"
              line="B,C"
              name="Cathedral Pkwy (110 St)"
-             links=""
+             links="154,156"
              other_link="" />
     <station id="12"
              line="N,Q,R,W"
@@ -1940,7 +1940,7 @@
     <station id="175"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park,C,G"
              name="Hoyt-Schermerhorn Sts"
-             links="292,236"
+             links="174,176,292,236"
              other_link="" />
     <station id="386"
              line="4"
@@ -1980,7 +1980,7 @@
     <station id="231"
              line="B,D"
              name="Grand St"
-             links=""
+             links="230,27"
              other_link="" />
     <station id="450"
              line="7"
@@ -2020,7 +2020,7 @@
     <station id="218"
              line="B,D"
              name="167 St"
-             links=""
+             links="217,219"
              other_link="" />
     <station id="105"
              line="J,Z"
@@ -2050,7 +2050,7 @@
     <station id="27"
              line="D,N,R"
              name="Atlantic Av-Barclays Ctr"
-             links="19,26,28,32"
+             links="19,26,28,32,231"
              other_link="40,338" />
     <station id="258"
              line="E,F"
@@ -2060,7 +2060,7 @@
     <station id="159"
              line="B,C"
              name="81 St-Museum of Natural History"
-             links=""
+             links="158,160"
              other_link="" />
     <station id="351"
              line="3"
@@ -2075,7 +2075,7 @@
     <station id="186"
              line="C"
              name="Van Siclen Av"
-             links=""
+             links="185,187"
              other_link="" />
     <station id="56"
              line="Q"
@@ -2135,7 +2135,7 @@
     <station id="59"
              line="D"
              name="9 Av"
-             links=""
+             links="32,60"
              other_link="" />
     <station id="378"
              line="4"
@@ -2190,7 +2190,7 @@
     <station id="214"
              line="B,D"
              name="182-183 Sts"
-             links=""
+             links="213,215"
              other_link="" />
     <station id="287"
              line="G"
@@ -2200,7 +2200,7 @@
     <station id="152"
              line="B,C"
              name="135 St"
-             links=""
+             links="151,153"
              other_link="" />
     <station id="300"
              line="1"
@@ -2245,7 +2245,7 @@
     <station id="148"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park,C"
              name="168 St"
-             links=""
+             links="149"
              other_link="" />
     <station id="31"
              line="R"
@@ -2270,7 +2270,7 @@
     <station id="183"
              line="C"
              name="Rockaway Av"
-             links=""
+             links="182,184"
              other_link="" />
     <station id="20"
              line="R,W"
@@ -2300,7 +2300,7 @@
     <station id="210"
              line="D"
              name="Norwood-205 St"
-             links=""
+             links="211"
              other_link="" />
     <station id="326"
              line="1"
@@ -2455,17 +2455,17 @@
     <station id="69"
              line="D"
              name="25 Av"
-             links=""
+             links="68,70"
              other_link="" />
     <station id="63"
              line="D"
              name="62 St"
-             links=""
+             links="62,64"
              other_link="73" />
     <station id="178"
              line="C"
              name="Franklin Av"
-             links=""
+             links="177,179"
              other_link="" />
     <station id="277"
              line="B,D,E"
@@ -2500,7 +2500,7 @@
     <station id="227"
              line="B,D,F,M"
              name="34 St-Herald Sq"
-             links="226,228"
+             links="167,226,228"
              other_link="" />
     <station id="322"
              line="1,2,3"
@@ -2540,7 +2540,7 @@
     <station id="215"
              line="B,D"
              name="Tremont Av"
-             links=""
+             links="214,216"
              other_link="" />
     <station id="517"
              line="SIR"
