@@ -215,7 +215,7 @@
     <station id="379"
              line="4"
              name="Mosholu Pkwy"
-             links=""
+             links="378,380"
              other_link="" />
     <station id="440"
              line="2,3"
@@ -240,12 +240,12 @@
     <station id="385"
              line="4"
              name="176 St"
-             links=""
+             links="384,386"
              other_link="" />
     <station id="384"
              line="4"
              name="Burnside Av"
-             links=""
+             links="383,385"
              other_link="" />
     <station id="57"
              line="F,Q"
@@ -340,7 +340,7 @@
     <station id="389"
              line="4"
              name="161 St-Yankee Stadium"
-             links=""
+             links="388,390"
              other_link="" />
     <station id="53"
              line="Q"
@@ -580,7 +580,7 @@
     <station id="397"
              line="4,5-Diamond,5-Eastchester,5-Neried,6,6-Diamond"
              name="86 St"
-             links=""
+             links="391,400"
              other_link="" />
     <station id="280"
              line="E"
@@ -630,7 +630,7 @@
     <station id="411"
              line="4,5-Diamond,5-Eastchester,5-Neried,6,6-Diamond"
              name="Brooklyn Bridge-City Hall"
-             links=""
+             links="406,412"
              other_link="105" />
     <station id="117"
              line="L"
@@ -710,7 +710,7 @@
     <station id="380"
              line="4"
              name="Bedford Park Blvd-Lehman College"
-             links=""
+             links="379,381"
              other_link="" />
     <station id="118"
              line="L"
@@ -740,7 +740,7 @@
     <station id="381"
              line="4"
              name="Kingsbridge Rd"
-             links=""
+             links="380,382"
              other_link="" />
     <station id="220"
              line="B,D"
@@ -795,7 +795,7 @@
     <station id="392"
              line="4,5-Diamond,5-Eastchester,5-Neried,6,6-Diamond"
              name="125 St"
-             links=""
+             links="391,397"
              other_link="" />
     <station id="297"
              line="1"
@@ -965,7 +965,7 @@
     <station id="388"
              line="4"
              name="167 St"
-             links=""
+             links="387,389"
              other_link="" />
     <station id="54"
              line="B,Q"
@@ -1170,7 +1170,7 @@
     <station id="412"
              line="4,5-Diamond,5-Eastchester,5-Neried"
              name="Fulton St"
-             links=""
+             links="411,413"
              other_link="106,172,332" />
     <station id="425"
              line="2,5-Neried"
@@ -1275,7 +1275,7 @@
     <station id="402"
              line="4,5-Diamond,5-Eastchester,5-Neried,6,6-Diamond"
              name="Grand Central-42 St"
-             links=""
+             links="400,406"
              other_link="" />
     <station id="23"
              line="R,W"
@@ -1330,7 +1330,7 @@
     <station id="413"
              line="4,5-Diamond,5-Eastchester,5-Neried"
              name="Wall St"
-             links=""
+             links="412,414"
              other_link="" />
     <station id="72"
              line="N"
@@ -1340,7 +1340,7 @@
     <station id="391"
              line="4,5-Diamond,5-Eastchester,5-Neried"
              name="138 St-Grand Concourse"
-             links=""
+             links="390,392"
              other_link="" />
     <station id="13"
              line="R,W"
@@ -1355,7 +1355,7 @@
     <station id="382"
              line="4"
              name="Fordham Rd"
-             links=""
+             links="381,383"
              other_link="" />
     <station id="55"
              line="B,Q"
@@ -1420,7 +1420,7 @@
     <station id="406"
              line="4,5-Diamond,5-Eastchester,5-Neried,6,6-Diamond"
              name="14 St-Union Sq"
-             links=""
+             links="402,411"
              other_link="" />
     <station id="172"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park,C"
@@ -1530,7 +1530,7 @@
     <station id="387"
              line="4"
              name="170 St"
-             links=""
+             links="386,388"
              other_link="" />
     <station id="522"
              line="SIR"
@@ -1540,7 +1540,7 @@
     <station id="345"
              line="3,4"
              name="Crown Hts-Utica Av"
-             links="344,346"
+             links="342,344,346"
              other_link="" />
     <station id="367"
              line="6"
@@ -1755,7 +1755,7 @@
     <station id="342"
              line="2,3,4,5-Diamond,5-Eastchester,5-Neried"
              name="Franklin Av-Medgar Evers College"
-             links="341,343"
+             links="338,341,343,345"
              other_link="142" />
     <station id="124"
              line="L"
@@ -1815,7 +1815,7 @@
     <station id="414"
              line="4,5-Diamond,5-Eastchester,5-Neried"
              name="Bowling Green"
-             links=""
+             links="413,415"
              other_link="" />
     <station id="96"
              line="J"
@@ -1900,7 +1900,7 @@
     <station id="338"
              line="2,3,4,5-Diamond,5-Eastchester,5-Neried"
              name="Atlantic Av-Barclays Ctr"
-             links="337,339"
+             links="337,339,342"
              other_link="27,40" />
     <station id="469"
              line="S"
@@ -1945,7 +1945,7 @@
     <station id="386"
              line="4"
              name="Mt Eden Av"
-             links=""
+             links="385,387"
              other_link="" />
     <station id="314"
              line="1"
@@ -2070,7 +2070,7 @@
     <station id="390"
              line="4"
              name="149 St-Grand Concourse"
-             links=""
+             links="389,391"
              other_link="435" />
     <station id="186"
              line="C"
@@ -2140,7 +2140,7 @@
     <station id="378"
              line="4"
              name="Woodlawn"
-             links=""
+             links="379"
              other_link="" />
     <station id="235"
              line="F"
@@ -2175,7 +2175,7 @@
     <station id="383"
              line="4"
              name="183 St"
-             links=""
+             links="382,384"
              other_link="" />
     <station id="346"
              line="3"
@@ -2385,7 +2385,7 @@
     <station id="400"
              line="4,5-Diamond,5-Eastchester,5-Neried,6,6-Diamond"
              name="59 St"
-             links=""
+             links="397,402"
              other_link="35,223" />
     <station id="95"
              line="J,Z"
@@ -2400,7 +2400,7 @@
     <station id="415"
              line="4,5-Diamond,5-Eastchester,5-Neried"
              name="Borough Hall"
-             links=""
+             links="414,337"
              other_link="24,335" />
     <station id="395"
              line="6,6-Diamond"
