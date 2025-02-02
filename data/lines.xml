@@ -295,7 +295,7 @@
     <station id="417"
              line="2,5-Neried"
              name="Nereid Av"
-             links=""
+             links="416,418"
              other_link="" />
     <station id="25"
              line="R"
@@ -380,7 +380,7 @@
     <station id="357"
              line="2,5-Diamond,5-Eastchester,5-Neried"
              name="Beverly Rd"
-             links=""
+             links="356,358"
              other_link="" />
     <station id="196"
              line="A-Far-Rockaway,A-Rockaway-Park"
@@ -410,7 +410,7 @@
     <station id="421"
              line="2,5-Neried"
              name="Gun Hill Rd"
-             links=""
+             links="420,422"
              other_link="" />
     <station id="47"
              line="B,Q"
@@ -430,7 +430,7 @@
     <station id="416"
              line="2"
              name="Wakefield-241 St"
-             links=""
+             links="417"
              other_link="" />
     <station id="325"
              line="1"
@@ -565,7 +565,7 @@
     <station id="353"
              line="2,5-Diamond,5-Eastchester,5-Neried"
              name="President St-Medgar Evers College"
-             links=""
+             links="342,354"
              other_link="" />
     <station id="506"
              line="SIR"
@@ -645,7 +645,7 @@
     <station id="428"
              line="2,5-Eastchester,5-Neried"
              name="174 St"
-             links=""
+             links="427,429"
              other_link="" />
     <station id="2"
              line="N,W"
@@ -810,7 +810,7 @@
     <station id="424"
              line="2,5-Neried"
              name="Pelham Pkwy"
-             links=""
+             links="423,425"
              other_link="" />
     <station id="192"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park"
@@ -825,7 +825,7 @@
     <station id="429"
              line="2,5-Eastchester,5-Neried"
              name="Freeman St"
-             links=""
+             links="428,430"
              other_link="" />
     <station id="275"
              line="E,M"
@@ -895,7 +895,7 @@
     <station id="435"
              line="2,5-Diamond,5-Eastchester,5-Neried"
              name="149 St-Grand Concourse"
-             links=""
+             links="434,438"
              other_link="390" />
     <station id="98"
              line="J,M"
@@ -940,7 +940,7 @@
     <station id="317"
              line="1,2,3"
              name="Times Sq-42 St"
-             links="316,318"
+             links="313,316,318"
              other_link="11,163,226,313,318,467,468" />
     <station id="157"
              line="B,C"
@@ -975,7 +975,7 @@
     <station id="356"
              line="2,5-Diamond,5-Eastchester,5-Neried"
              name="Church Av"
-             links=""
+             links="355,357"
              other_link="" />
     <station id="169"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park,C,E"
@@ -990,7 +990,7 @@
     <station id="420"
              line="2,5-Neried"
              name="219 St"
-             links=""
+             links="419,421"
              other_link="" />
     <station id="110"
              line="M"
@@ -1175,12 +1175,12 @@
     <station id="425"
              line="2,5-Neried"
              name="Bronx Park East"
-             links=""
+             links="424,426"
              other_link="" />
     <station id="430"
              line="2,5-Eastchester,5-Neried"
              name="Simpson St"
-             links=""
+             links="429,431"
              other_link="" />
     <station id="167"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park,C,E"
@@ -1265,7 +1265,7 @@
     <station id="423"
              line="2,5-Neried"
              name="Allerton Av"
-             links=""
+             links="422,424"
              other_link="" />
     <station id="191"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park"
@@ -1445,7 +1445,7 @@
     <station id="419"
              line="2,5-Neried"
              name="225 St"
-             links=""
+             links="418,420"
              other_link="" />
     <station id="82"
              line="J,Z"
@@ -1500,7 +1500,7 @@
     <station id="434"
              line="2,5-Diamond,5-Eastchester,5-Neried"
              name="3 Av-149 St"
-             links=""
+             links="433,435"
              other_link="" />
     <station id="99"
              line="J,M"
@@ -1680,12 +1680,12 @@
     <station id="438"
              line="2,3"
              name="135 St"
-             links="437,439"
+             links="435,437,439"
              other_link="" />
     <station id="431"
              line="2,5-Eastchester,5-Neried"
              name="Intervale Av"
-             links=""
+             links="430,432"
              other_link="" />
     <station id="241"
              line="F,G"
@@ -1720,7 +1720,7 @@
     <station id="426"
              line="2,5-Diamond,5-Eastchester,5-Neried"
              name="E 180 St"
-             links=""
+             links="425,427"
              other_link="" />
     <station id="163"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park,C,E"
@@ -1755,7 +1755,7 @@
     <station id="342"
              line="2,3,4,5-Diamond,5-Eastchester,5-Neried"
              name="Franklin Av-Medgar Evers College"
-             links="338,341,343,345"
+             links="338,341,343,345,353"
              other_link="142" />
     <station id="124"
              line="L"
@@ -1765,7 +1765,7 @@
     <station id="355"
              line="2,5-Diamond,5-Eastchester,5-Neried"
              name="Winthrop St"
-             links=""
+             links="354,356"
              other_link="" />
     <station id="458"
              line="7"
@@ -1871,11 +1871,11 @@
              line="2,3"
              name="Park Place"
              links="327,332"
-             other_link="170,171" />
+             other_link="170,171,327,332" />
     <station id="441"
              line="2,3"
              name="Central Park North (110 St)"
-             links="440,310"
+             links="310,440"
              other_link="" />
     <station id="17"
              line="R,W"
@@ -1910,7 +1910,7 @@
     <station id="359"
              line="2,5-Diamond,5-Eastchester,5-Neried"
              name="Flatbush Av-Brooklyn College"
-             links=""
+             links="358"
              other_link="" />
     <station id="32"
              line="D,N,R"
@@ -2105,7 +2105,7 @@
     <station id="418"
              line="2,5-Neried"
              name="233 St"
-             links=""
+             links="417,419"
              other_link="" />
     <station id="24"
              line="R"
@@ -2155,7 +2155,7 @@
     <station id="433"
              line="2,5-Eastchester,5-Neried"
              name="Jackson Av"
-             links=""
+             links="432,434"
              other_link="" />
     <station id="207"
              line="A-Far-Rockaway"
@@ -2220,7 +2220,7 @@
     <station id="432"
              line="2,5-Eastchester,5-Neried"
              name="Prospect Av"
-             links=""
+             links="431,433"
              other_link="" />
     <station id="410"
              line="6,6-Diamond"
@@ -2280,7 +2280,7 @@
     <station id="422"
              line="2,5-Neried"
              name="Burke Av"
-             links=""
+             links="421,423"
              other_link="" />
     <station id="273"
              line="E,M,R"
@@ -2360,7 +2360,7 @@
     <station id="358"
              line="2,5-Diamond,5-Eastchester,5-Neried"
              name="Newkirk Av-Little Haiti"
-             links=""
+             links="357,359"
              other_link="" />
     <station id="80"
              line="J,Z"
@@ -2416,11 +2416,11 @@
              line="2,3"
              name="Fulton St"
              links="331,333"
-             other_link="106,172,412" />
+             other_link="106,172,331,333,412" />
     <station id="427"
              line="2,5-Eastchester,5-Neried"
              name="West Farms Sq-E Tremont Av"
-             links=""
+             links="426,428"
              other_link="" />
     <station id="459"
              line="7"
@@ -2525,7 +2525,7 @@
     <station id="354"
              line="2,5-Diamond,5-Eastchester,5-Neried"
              name="Sterling St"
-             links=""
+             links="353,355"
              other_link="" />
     <station id="84"
              line="J"
