@@ -330,7 +330,7 @@
     <station id="26"
              line="B,Q,R"
              name="DeKalb Av"
-             links="19,25,27,40"
+             links="19,25,27,40,231"
              other_link="" />
     <station id="257"
              line="F"
@@ -415,7 +415,7 @@
     <station id="47"
              line="B,Q"
              name="Newkirk Plaza"
-             links="46,48"
+             links="44,46,48,51"
              other_link="" />
     <station id="94"
              line="J"
@@ -945,7 +945,7 @@
     <station id="157"
              line="B,C"
              name="96 St"
-             links="157,158"
+             links="156,158"
              other_link="" />
     <station id="403"
              line="6,6-Diamond"
@@ -970,7 +970,7 @@
     <station id="54"
              line="B,Q"
              name="Sheepshead Bay"
-             links="53,55"
+             links="51,53,55"
              other_link="" />
     <station id="356"
              line="2,5-Diamond,5-Eastchester,5-Neried"
@@ -1025,7 +1025,7 @@
     <station id="225"
              line="B,D,F,M"
              name="47-50 Sts-Rockefeller Ctr"
-             links="276,226"
+             links="276,277,226"
              other_link="" />
     <station id="339"
              line="2,3"
@@ -1090,7 +1090,7 @@
     <station id="42"
              line="B,Q,S-Franklin-Extension"
              name="Prospect Park"
-             links="41,43,139"
+             links="41,43,44,139"
              other_link="" />
     <station id="371"
              line="6,6-Diamond"
@@ -1845,7 +1845,7 @@
     <station id="51"
              line="B,Q"
              name="Kings Hwy"
-             links="50,52"
+             links="47,50,52,54"
              other_link="" />
     <station id="68"
              line="D"
@@ -1965,7 +1965,7 @@
     <station id="44"
              line="B,Q"
              name="Church Av"
-             links="43,45"
+             links="43,45,47"
              other_link="" />
     <station id="250"
              line="F"
@@ -1980,7 +1980,7 @@
     <station id="231"
              line="B,D"
              name="Grand St"
-             links="230,27"
+             links="230,26,27"
              other_link="" />
     <station id="450"
              line="7"
@@ -2470,7 +2470,7 @@
     <station id="277"
              line="B,D,E"
              name="7 Av"
-             links="276,162"
+             links="161,225,276,162"
              other_link="" />
     <station id="442"
              line="5-Diamond,5-Eastchester"
