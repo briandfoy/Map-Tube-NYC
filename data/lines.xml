@@ -235,7 +235,7 @@
     <station id="11"
              line="N,Q,R,W"
              name="Times Sq-42 St"
-             links="10,12"
+             links="9,10,12"
              other_link="163,226,317,467,468" />
     <station id="385"
              line="4"
@@ -250,7 +250,7 @@
     <station id="57"
              line="F,Q"
              name="W 8 St-NY Aquarium"
-             links=""
+             links="56,58"
              other_link="" />
     <station id="144"
              line="A-Far-Rockaway,A-Ozone-Park,A-Rockaway-Park"
@@ -260,7 +260,7 @@
     <station id="475"
              line="Q"
              name="96 St"
-             links=""
+             links="476"
              other_link="" />
     <station id="340"
              line="2,3"
@@ -290,7 +290,7 @@
     <station id="43"
              line="Q"
              name="Parkside Av"
-             links=""
+             links="42,44"
              other_link="" />
     <station id="417"
              line="2,5-Neried"
@@ -330,7 +330,7 @@
     <station id="26"
              line="B,Q,R"
              name="DeKalb Av"
-             links="25,27"
+             links="19,25,27,40"
              other_link="" />
     <station id="257"
              line="F"
@@ -345,7 +345,7 @@
     <station id="53"
              line="Q"
              name="Neck Rd"
-             links=""
+             links="52,54"
              other_link="" />
     <station id="15"
              line="4,5,6,L,N,Q,R,W"
@@ -415,7 +415,7 @@
     <station id="47"
              line="B,Q"
              name="Newkirk Plaza"
-             links=""
+             links="46,48"
              other_link="" />
     <station id="94"
              line="J"
@@ -460,7 +460,7 @@
     <station id="58"
              line="D,F,N,Q"
              name="Coney Island-Stillwell Av"
-             links="79"
+             links="58,79"
              other_link="" />
     <station id="316"
              line="1"
@@ -970,7 +970,7 @@
     <station id="54"
              line="B,Q"
              name="Sheepshead Bay"
-             links=""
+             links="53,55"
              other_link="" />
     <station id="356"
              line="2,5-Diamond,5-Eastchester,5-Neried"
@@ -1090,7 +1090,7 @@
     <station id="42"
              line="B,Q,S-Franklin-Extension"
              name="Prospect Park"
-             links="139"
+             links="41,43,139"
              other_link="" />
     <station id="371"
              line="6,6-Diamond"
@@ -1210,7 +1210,7 @@
     <station id="46"
              line="Q"
              name="Cortelyou Rd"
-             links=""
+             links="45,47"
              other_link="" />
     <station id="162"
              line="C,E"
@@ -1285,7 +1285,7 @@
     <station id="45"
              line="Q"
              name="Beverley Rd"
-             links=""
+             links="44,46"
              other_link="" />
     <station id="286"
              line="G"
@@ -1360,7 +1360,7 @@
     <station id="55"
              line="B,Q"
              name="Brighton Beach"
-             links=""
+             links="54,56"
              other_link="" />
     <station id="313"
              line="1,2,3"
@@ -1375,7 +1375,7 @@
     <station id="50"
              line="Q"
              name="Avenue M"
-             links=""
+             links="49,51"
              other_link="" />
     <station id="465"
              line="7"
@@ -1495,7 +1495,7 @@
     <station id="40"
              line="B,Q"
              name="Atlantic Av-Barclays Ctr"
-             links=""
+             links="26,41"
              other_link="27,338" />
     <station id="434"
              line="2,5-Diamond,5-Eastchester,5-Neried"
@@ -1640,7 +1640,7 @@
     <station id="223"
              line="F,Q"
              name="Lexington Av/63 St"
-             links=""
+             links="477,9"
              other_link="35" />
     <station id="394"
              line="6,6-Diamond"
@@ -1710,7 +1710,7 @@
     <station id="476"
              line="Q"
              name="86 St"
-             links=""
+             links="475,477"
              other_link="" />
     <station id="516"
              line="SIR"
@@ -1785,7 +1785,7 @@
     <station id="49"
              line="Q"
              name="Avenue J"
-             links=""
+             links="48,50"
              other_link="" />
     <station id="64"
              line="D"
@@ -1800,7 +1800,7 @@
     <station id="19"
              line="N,Q"
              name="Canal St"
-             links="15,27"
+             links="15,26,27"
              other_link="18,104,410" />
     <station id="282"
              line="G"
@@ -1845,7 +1845,7 @@
     <station id="51"
              line="B,Q"
              name="Kings Hwy"
-             links=""
+             links="50,52"
              other_link="" />
     <station id="68"
              line="D"
@@ -1965,7 +1965,7 @@
     <station id="44"
              line="B,Q"
              name="Church Av"
-             links=""
+             links="43,45"
              other_link="" />
     <station id="250"
              line="F"
@@ -2040,7 +2040,7 @@
     <station id="41"
              line="B,Q"
              name="7 Av"
-             links=""
+             links="40,42"
              other_link="" />
     <station id="304"
              line="1"
@@ -2080,7 +2080,7 @@
     <station id="56"
              line="Q"
              name="Ocean Pkwy"
-             links=""
+             links="55,57"
              other_link="" />
     <station id="115"
              line="L"
@@ -2115,7 +2115,7 @@
     <station id="9"
              line="N,Q,R,W"
              name="57 St-7 Av"
-             links="8,10"
+             links="8,10,11,223"
              other_link="" />
     <station id="76"
              line="N"
@@ -2255,7 +2255,7 @@
     <station id="52"
              line="Q"
              name="Avenue U"
-             links=""
+             links="51,53"
              other_link="" />
     <station id="405"
              line="6,6-Diamond"
@@ -2380,7 +2380,7 @@
     <station id="477"
              line="Q"
              name="72 St"
-             links=""
+             links="476,223"
              other_link="" />
     <station id="400"
              line="4,5-Diamond,5-Eastchester,5-Neried,6,6-Diamond"
@@ -2435,7 +2435,7 @@
     <station id="48"
              line="Q"
              name="Avenue H"
-             links=""
+             links="47,49"
              other_link="" />
     <station id="16"
              line="R,W"
